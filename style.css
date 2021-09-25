@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: black;
+    height:5em;
+
+}
+header img{
+    margin-left: 10%;
+    margin-top: 10px;
+
+}
+.links{
+    float: right;
+    margin-top: 33px;
+    margin-right: 55px;
+
+}
+.links a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    margin-right: 8px;
+    
+}
+.links a:hover{
+    background: tomato;
+    color:black;
+}
+.list{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 238, 0);
+    padding: 100px;
+}
+.list li{
+    margin-bottom: 10px;
+}
+.login{
+    float: right;
+    border:  1px solid red;
+    height: 15em;
+    background-color: salmon;
+    margin-right: 2%;
+    padding: 30px;
+    margin-top: 5%;
+
+}
+.login h3{
+    text-align: center;
+}
+#butn{
+    width: 100px;
+    height: 1.8em;
+    color: seashell;
+    background-color: springgreen;
+    border: 1px solid springgreen;
+}
+.container{
+    margin-top: 20%;
+}
+.col1{
+    border: 1px solid blue;
+    width: 33%;
+    float: left;
+    height: 22em;
+    background-color: chocolate;
+}
+.col2{
+    border: 1px solid blue;
+    width: 33%;
+    float: left;
+    height: 22em;
+    background-color:darkcyan;
+}
+.col3{
+    border: 1px solid blue;
+    width: 33%;
+    float: left;
+    height: 22em;
+    background-color:darkgray
+}
+footer{
+    background: black;
+    color: white;
+    height: 2em;
+    margin-top: 46%;
+    
+
+}
+footer h3{
+    text-align: center;
+}
+
